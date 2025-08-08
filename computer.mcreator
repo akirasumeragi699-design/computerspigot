@@ -1,0 +1,49 @@
+{
+  "mod_elements": [
+    {
+      "name": "Computer",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "computer",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/computer/custom/Computer.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {}
+  },
+  "metadata": {
+    "files": [
+      "src/main/resources/plugin.yml",
+      "src/main/java/net/mcreator/computer/ComputerMod.java"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "computer",
+    "modName": "computer",
+    "version": "1.0.0",
+    "author": "MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "spigot-1.20.1",
+    "modElementsPackage": "net.mcreator.computer"
+  },
+  "mcreatorVersion": 202500228610
+}
